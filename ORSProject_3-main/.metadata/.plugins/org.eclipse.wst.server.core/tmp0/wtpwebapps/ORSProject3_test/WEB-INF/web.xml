@@ -1,0 +1,27 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>CTL</servlet-name>
+  	<display-name>CTL</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.ctl.CTL</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>BaseCtl</servlet-name>
+  	<display-name>BaseCtl</display-name>
+  	<description></description>
+  	<servlet-class>in.co.rays.ctl.BaseCtl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>CTL</servlet-name>
+  	<url-pattern>/CTL</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>BaseCtl</servlet-name>
+  	<url-pattern>/BaseCtl</url-pattern>
+  </servlet-mapping>
+</web-app>

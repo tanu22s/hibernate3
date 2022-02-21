@@ -1,0 +1,250 @@
+
+Jan 24, 2022 20:22:16.75 NEW SESSION
+Jan 24, 2022 20:22:16.75 [7764:13132:0124/202216.757:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Jan 24, 2022 20:22:19.92 [7764:15312:0124/202219.924:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 24, 2022 20:22:19.92 [7764:15312:0124/202219.924:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Jan 24, 2022 20:22:19.92 [7764:15312:0124/202219.924:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 24, 2022 20:22:19.92 [7764:15312:0124/202219.925:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Jan 24, 2022 20:22:19.96 [7764:9896:0124/202219.963:ERROR:device_event_log_impl.cc(214)] [20:22:19.963] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 24, 2022 20:22:19.96 [7764:9896:0124/202219.963:ERROR:device_event_log_impl.cc(214)] [20:22:19.963] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 05, 2022 11:40:36.58 NEW SESSION
+Feb 05, 2022 11:40:36.58 [13940:20932:0205/114036.578:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 11:40:38.67 [13940:18064:0205/114038.670:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 11:40:38.67 [13940:18064:0205/114038.670:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 11:40:38.67 [13940:18064:0205/114038.670:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 11:40:38.67 [13940:18064:0205/114038.672:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 11:40:38.67 [13940:21304:0205/114038.673:ERROR:device_event_log_impl.cc(214)] [11:40:38.672] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 11:48:43.69 [10508:13496:0205/114843.690:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 11:48:45.38 [10508:19076:0205/114845.385:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 11:48:45.38 [10508:19076:0205/114845.385:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 11:48:45.38 [10508:19076:0205/114845.385:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 11:48:45.39 [10508:19076:0205/114845.389:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 11:48:45.39 [10508:10724:0205/114845.389:ERROR:device_event_log_impl.cc(214)] [11:48:45.389] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 11:48:45.39 [10508:10724:0205/114845.389:ERROR:device_event_log_impl.cc(214)] [11:48:45.389] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 12:19:41.67 [22228:16236:0205/121941.675:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 12:19:43.42 [22228:15024:0205/121943.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 12:19:43.42 [22228:15024:0205/121943.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 12:19:43.42 [22228:15024:0205/121943.426:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 12:19:43.42 [22228:15024:0205/121943.427:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 12:19:43.42 [22228:9672:0205/121943.427:ERROR:device_event_log_impl.cc(214)] [12:19:43.427] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 12:19:43.42 [22228:9672:0205/121943.428:ERROR:device_event_log_impl.cc(214)] [12:19:43.428] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 05, 2022 12:23:49.33 NEW SESSION
+Feb 05, 2022 12:23:49.33 [20292:14596:0205/122349.337:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 12:23:51.08 [20292:22156:0205/122351.081:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 12:23:51.08 [20292:22156:0205/122351.081:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 12:23:51.08 [20292:22156:0205/122351.081:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 12:23:51.08 [20292:864:0205/122351.082:ERROR:device_event_log_impl.cc(214)] [12:23:51.083] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 12:23:51.08 [20292:864:0205/122351.083:ERROR:device_event_log_impl.cc(214)] [12:23:51.083] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 12:23:51.08 [20292:22156:0205/122351.084:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 13:02:58.17 [20292:864:0205/130258.174:ERROR:device_event_log_impl.cc(214)] [13:02:58.174] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 05, 2022 13:09:35.10 [22192:12656:0205/130935.105:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 13:09:36.76 [22192:3860:0205/130936.768:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 13:09:36.76 [22192:3860:0205/130936.768:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 13:09:36.77 [22192:3860:0205/130936.768:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 13:09:36.77 [22192:3860:0205/130936.770:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 13:09:36.77 [22192:21436:0205/130936.771:ERROR:device_event_log_impl.cc(214)] [13:09:36.771] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 13:09:36.77 [22192:21436:0205/130936.771:ERROR:device_event_log_impl.cc(214)] [13:09:36.771] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 13:47:03.97 [22192:21436:0205/134703.977:ERROR:device_event_log_impl.cc(214)] [13:47:03.977] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 05, 2022 13:59:36.09 [22192:21436:0205/135936.094:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 05, 2022 14:00:35.00 [22192:21436:0205/140035.006:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 05, 2022 14:02:26.81 [22192:21436:0205/140226.809:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 05, 2022 14:06:12.89 [22192:21436:0205/140612.893:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 05, 2022 14:18:35.49 [12888:1772:0205/141835.495:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 05, 2022 14:18:37.59 [12888:13904:0205/141837.592:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 14:18:37.59 [12888:13904:0205/141837.592:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 05, 2022 14:18:37.59 [12888:13904:0205/141837.592:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 05, 2022 14:18:37.59 [12888:13904:0205/141837.594:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 05, 2022 14:18:37.59 [12888:20004:0205/141837.596:ERROR:device_event_log_impl.cc(214)] [14:18:37.596] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 14:18:37.59 [12888:20004:0205/141837.596:ERROR:device_event_log_impl.cc(214)] [14:18:37.596] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 05, 2022 14:28:19.23 [12888:20004:0205/142819.229:ERROR:interface_endpoint_client.cc(658)] Message 3 rejected by interface blink.mojom.Widget
+
+Feb 06, 2022 13:36:34.75 NEW SESSION
+Feb 06, 2022 13:36:34.75 [8356:20736:0206/133634.747:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 06, 2022 13:36:36.65 [8356:18368:0206/133636.649:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 06, 2022 13:36:36.65 [8356:18368:0206/133636.649:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 06, 2022 13:36:36.65 [8356:18368:0206/133636.649:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 06, 2022 13:36:36.65 [8356:18368:0206/133636.650:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 06, 2022 13:36:36.65 [8356:860:0206/133636.653:ERROR:device_event_log_impl.cc(214)] [13:36:36.653] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 06, 2022 13:36:36.65 [8356:860:0206/133636.653:ERROR:device_event_log_impl.cc(214)] [13:36:36.653] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 06, 2022 18:22:47.50 NEW SESSION
+Feb 06, 2022 18:22:47.50 [22816:12564:0206/182247.503:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 06, 2022 18:22:49.57 [22816:21532:0206/182249.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 06, 2022 18:22:49.57 [22816:21532:0206/182249.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 06, 2022 18:22:49.57 [22816:21532:0206/182249.573:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 06, 2022 18:22:49.57 [22816:17152:0206/182249.576:ERROR:device_event_log_impl.cc(214)] [18:22:49.576] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 06, 2022 18:22:49.57 [22816:21532:0206/182249.576:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 06, 2022 18:22:49.57 [22816:17152:0206/182249.576:ERROR:device_event_log_impl.cc(214)] [18:22:49.577] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 06, 2022 20:42:00.74 [22816:5780:0206/204200.740:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 06, 2022 20:42:03.25 [22816:5780:0206/204203.258:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Feb 08, 2022 16:19:25.83 NEW SESSION
+Feb 08, 2022 16:19:25.83 [9248:8824:0208/161925.833:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 08, 2022 16:19:28.01 [9248:15276:0208/161928.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 08, 2022 16:19:28.01 [9248:15276:0208/161928.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 08, 2022 16:19:28.01 [9248:15276:0208/161928.010:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 08, 2022 16:19:28.01 [9248:15276:0208/161928.011:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 08, 2022 16:19:28.01 [9248:1752:0208/161928.017:ERROR:device_event_log_impl.cc(214)] [16:19:28.017] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 08, 2022 16:19:28.01 [9248:1752:0208/161928.017:ERROR:device_event_log_impl.cc(214)] [16:19:28.018] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 08, 2022 16:19:28.09 [9248:6184:0208/161928.099:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 16:19:31.16 [9248:6184:0208/161931.162:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2022 16:19:31.26 [9248:1752:0208/161931.263:ERROR:device_event_log_impl.cc(214)] [16:19:31.263] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 08, 2022 16:19:41.23 [9248:6184:0208/161941.234:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 16:21:33.62 [9248:8824:0208/162133.626:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 08, 2022 16:21:45.78 [9248:6184:0208/162145.784:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 16:22:26.61 [9248:6184:0208/162226.617:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 17:21:28.25 [9248:6184:0208/172128.249:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 18:17:02.87 [9248:6184:0208/181702.874:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 08, 2022 18:17:04.22 [9248:6184:0208/181704.224:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2022 18:48:31.20 [9248:6184:0208/184831.201:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2022 18:49:00.38 [9248:6184:0208/184900.389:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2022 18:49:22.23 [9248:6184:0208/184922.238:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 18:49:24.26 [9248:6184:0208/184924.260:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 08, 2022 18:49:48.22 [9248:6184:0208/184948.226:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 08, 2022 19:17:42.33 [22544:23544:0208/191742.336:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 08, 2022 19:17:44.41 [22544:20592:0208/191744.411:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 08, 2022 19:17:44.41 [22544:20592:0208/191744.411:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 08, 2022 19:17:44.41 [22544:20592:0208/191744.411:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 08, 2022 19:17:44.41 [22544:20592:0208/191744.414:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 08, 2022 19:17:44.41 [22544:21304:0208/191744.416:ERROR:device_event_log_impl.cc(214)] [19:17:44.415] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 08, 2022 19:17:44.41 [22544:21304:0208/191744.417:ERROR:device_event_log_impl.cc(214)] [19:17:44.416] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 08, 2022 19:18:16.18 [22544:1672:0208/191816.186:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+
+Feb 09, 2022 16:00:25.90 NEW SESSION
+Feb 09, 2022 16:00:25.90 [19452:2680:0209/160025.899:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 09, 2022 16:00:27.95 [19452:24084:0209/160027.951:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 09, 2022 16:00:27.95 [19452:24084:0209/160027.951:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 09, 2022 16:00:27.95 [19452:24084:0209/160027.951:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 09, 2022 16:00:27.95 [19452:11056:0209/160027.954:ERROR:device_event_log_impl.cc(214)] [16:00:27.954] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 09, 2022 16:00:27.95 [19452:11056:0209/160027.954:ERROR:device_event_log_impl.cc(214)] [16:00:27.954] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 09, 2022 16:00:27.95 [19452:24084:0209/160027.955:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 09, 2022 16:09:03.91 [19452:11056:0209/160903.909:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+Feb 09, 2022 17:50:21.61 [19452:3504:0209/175021.614:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 09, 2022 18:27:43.85 [19452:11056:0209/182743.854:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 09, 2022 19:15:01.64 [19452:11056:0209/191501.646:ERROR:device_event_log_impl.cc(214)] [19:15:01.645] USB: usb_service_win.cc:261 Failed to get device driver name: Element not found. (0x490)
+Feb 09, 2022 21:26:46.12 [19452:3504:0209/212646.127:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 09, 2022 21:27:08.30 [19452:3504:0209/212708.306:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 09, 2022 21:28:03.39 [19452:3504:0209/212803.397:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 09, 2022 21:29:04.31 [19452:26168:0209/212904.313:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 09, 2022 21:29:43.00 [19452:3504:0209/212943.007:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 09, 2022 21:29:49.32 [19452:19272:0209/212949.322:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Feb 09, 2022 21:30:56.83 [19452:26436:0209/213056.832:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Feb 11, 2022 10:22:21.22 NEW SESSION
+Feb 11, 2022 10:22:21.22 [10320:16764:0211/102221.226:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 11, 2022 10:22:23.29 [10320:25900:0211/102223.289:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 10:22:23.31 [10320:25900:0211/102223.309:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 10:22:23.31 [10320:25900:0211/102223.310:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 10:22:23.31 [10320:25900:0211/102223.311:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 10:22:23.31 [10320:4220:0211/102223.314:ERROR:device_event_log_impl.cc(214)] [10:22:23.314] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 10:22:23.31 [10320:4220:0211/102223.315:ERROR:device_event_log_impl.cc(214)] [10:22:23.315] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 11, 2022 13:12:22.24 NEW SESSION
+Feb 11, 2022 13:12:22.24 [22668:23356:0211/131222.242:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 11, 2022 13:12:24.28 [22668:15596:0211/131224.286:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 13:12:24.28 [22668:15596:0211/131224.287:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 13:12:24.28 [22668:15596:0211/131224.287:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 13:12:24.29 [22668:15596:0211/131224.289:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 13:12:24.29 [22668:14300:0211/131224.291:ERROR:device_event_log_impl.cc(214)] [13:12:24.291] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 13:12:24.29 [22668:14300:0211/131224.292:ERROR:device_event_log_impl.cc(214)] [13:12:24.291] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 16, 2022 14:27:31.35 NEW SESSION
+Feb 16, 2022 14:27:31.35 [12320:17148:0216/142731.318:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 16, 2022 14:27:33.39 [12320:20956:0216/142733.393:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 16, 2022 14:27:33.40 [12320:20956:0216/142733.405:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 16, 2022 14:27:33.40 [12320:20956:0216/142733.405:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 16, 2022 14:27:33.40 [12320:20956:0216/142733.407:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 16, 2022 14:27:33.40 [12320:15176:0216/142733.407:ERROR:device_event_log_impl.cc(214)] [14:27:33.407] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 16, 2022 14:33:33.97 [12320:17804:0216/143333.972:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 14:33:43.81 [12320:17804:0216/143343.810:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 14:33:46.37 [12320:17804:0216/143346.373:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 14:43:11.97 [12320:17804:0216/144311.978:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 14:43:23.18 [12320:17804:0216/144323.182:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 14:43:25.19 [12320:17804:0216/144325.196:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 14:43:33.15 [12320:17804:0216/144333.149:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 14:43:35.16 [12320:17804:0216/144335.167:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 14:44:06.01 [12320:15176:0216/144406.018:ERROR:device_event_log_impl.cc(214)] [14:44:06.018] USB: usb_service_win.cc:260 Failed to get device driver name: Element not found. (0x490)
+Feb 16, 2022 14:45:49.05 [12320:17804:0216/144549.050:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 16, 2022 15:03:25.82 [12320:17804:0216/150325.823:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 16, 2022 15:03:39.28 [12320:17804:0216/150339.283:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:04:38.32 [12320:17804:0216/150438.321:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:06:06.61 [12320:17804:0216/150606.618:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:06:50.28 [12320:17804:0216/150650.287:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:07:08.15 [12320:17804:0216/150708.151:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:07:10.24 [12320:17804:0216/150710.242:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:07:42.74 [12320:17804:0216/150742.747:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:09:50.80 [12320:17804:0216/150950.803:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 16, 2022 15:10:51.44 [12320:17804:0216/151051.445:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 16, 2022 15:12:02.47 [12320:17804:0216/151202.474:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 16, 2022 15:21:47.67 [12320:17804:0216/152147.670:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:21:54.28 [12320:17804:0216/152154.285:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:22:06.25 [12320:17804:0216/152206.254:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:22:41.17 [12320:17804:0216/152241.176:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -103
+Feb 16, 2022 15:23:01.40 [12320:17804:0216/152301.404:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:13.66 [12320:17804:0216/152313.667:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:23.35 [12320:17804:0216/152323.350:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:31.26 [12320:17804:0216/152331.261:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:42.76 [12320:17804:0216/152342.767:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:55.25 [12320:17804:0216/152355.251:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:23:57.28 [12320:17804:0216/152357.281:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:24:08.36 [12320:17804:0216/152408.363:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:24:19.65 [12320:17804:0216/152419.658:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 15:24:33.85 [12320:17804:0216/152433.856:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:24:46.32 [12320:17804:0216/152446.328:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:25:09.40 [12320:17804:0216/152509.401:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 16, 2022 15:52:18.21 [12320:17804:0216/155218.217:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 15:52:20.22 [12320:17804:0216/155220.223:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 16:34:48.98 [12320:17804:0216/163448.982:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 16:35:06.81 [12320:17804:0216/163506.812:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 16:35:08.82 [12320:17804:0216/163508.821:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 16:35:34.33 [12320:17804:0216/163534.334:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 16:35:36.37 [12320:17804:0216/163536.372:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 16:35:54.72 [12320:17804:0216/163554.725:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 16:37:57.32 [12320:17804:0216/163757.319:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 16:43:17.46 [12320:17804:0216/164317.467:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 17:18:22.22 [12320:17804:0216/171822.219:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 17:23:31.60 [12320:17804:0216/172331.608:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 17:23:41.23 [12320:17804:0216/172341.239:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 16, 2022 17:34:38.96 [12320:17804:0216/173438.961:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -118
+Feb 16, 2022 17:52:39.75 [12320:17804:0216/175239.755:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 17:52:56.79 [12320:17804:0216/175256.798:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 16, 2022 17:53:01.23 [12320:17804:0216/175301.238:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+
+Feb 18, 2022 11:40:36.55 NEW SESSION
+Feb 18, 2022 11:40:36.55 [16188:11196:0218/114036.550:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 18, 2022 11:40:39.65 [16188:4600:0218/114039.650:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 11:40:39.65 [16188:4600:0218/114039.650:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 18, 2022 11:40:39.65 [16188:4600:0218/114039.650:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 18, 2022 11:40:39.65 [16188:4600:0218/114039.652:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 18, 2022 11:40:39.66 [16188:10680:0218/114039.661:ERROR:device_event_log_impl.cc(214)] [11:40:39.660] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 18, 2022 11:40:39.66 [16188:10680:0218/114039.661:ERROR:device_event_log_impl.cc(214)] [11:40:39.661] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 19, 2022 15:11:13.80 NEW SESSION
+Feb 19, 2022 15:11:13.80 [16308:19808:0219/151113.767:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 19, 2022 15:11:15.89 [16308:1832:0219/151115.892:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 19, 2022 15:11:15.89 [16308:1832:0219/151115.893:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 19, 2022 15:11:15.89 [16308:1832:0219/151115.893:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 19, 2022 15:11:15.89 [16308:1832:0219/151115.896:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 19, 2022 15:11:15.90 [16308:10588:0219/151115.902:ERROR:device_event_log_impl.cc(214)] [15:11:15.901] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 19, 2022 15:11:15.90 [16308:10588:0219/151115.902:ERROR:device_event_log_impl.cc(214)] [15:11:15.902] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 19, 2022 15:11:50.39 [16308:20000:0219/151150.389:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 19, 2022 15:12:45.15 [16308:20000:0219/151245.153:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+Feb 19, 2022 15:57:45.98 [16308:20000:0219/155745.981:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Feb 19, 2022 15:57:48.08 [16308:20000:0219/155748.086:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Feb 19, 2022 16:45:06.83 [16308:20000:0219/164506.838:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -7
+
+Feb 21, 2022 11:59:47.21 NEW SESSION
+Feb 21, 2022 11:59:47.21 [14928:21112:0221/115947.214:ERROR:data_pack.cc(126)] Could not open pak file for writing: The process cannot access the file because it is being used by another process. (0x20)
+Feb 21, 2022 11:59:49.16 [14928:8440:0221/115949.161:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 11:59:49.16 [14928:8440:0221/115949.161:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 21, 2022 11:59:49.16 [14928:8440:0221/115949.161:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 21, 2022 11:59:49.16 [14928:8440:0221/115949.162:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 21, 2022 11:59:49.16 [14928:11936:0221/115949.164:ERROR:device_event_log_impl.cc(214)] [11:59:49.164] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 11:59:49.16 [14928:11936:0221/115949.164:ERROR:device_event_log_impl.cc(214)] [11:59:49.165] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2022 12:08:32.26 [14928:11936:0221/120832.264:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 21, 2022 12:09:17.48 [14928:11936:0221/120917.485:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 21, 2022 12:14:38.83 [14928:11936:0221/121438.836:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 21, 2022 12:15:08.87 [14928:11936:0221/121508.875:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 21, 2022 12:15:18.03 [14928:11936:0221/121518.039:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
